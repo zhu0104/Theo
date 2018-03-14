@@ -1,0 +1,34 @@
+h1 {font-family: cursive; text-align: center;}
+
+#thetitle
+{
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+
+.center
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#theweebbutton
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100px;
+    height: 100px;
+}
+
+body
+{
+    background-image: url(file:///C:/Users/asian/Desktop/Komodo%20Projects/Theo/images/sparklestransparent.gif),url(file:///C:/Users/asian/Desktop/Komodo%20Projects/Theo/images/dragon%20maid.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    
+    
+}
