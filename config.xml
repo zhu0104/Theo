@@ -6,9 +6,9 @@ id          = "edu.uab.business.studentapp"
 versionCode = "1"
 version     = "0.0.1" >
 <!--versionCode is optional and Android only -->
-<name>Assignment 4</name>
+<name>Theo So Weeb</name>
 <description>
-    Assignment 4
+    Theo Weeb
     </description>
 <author>
     Aaron.Zhu
